@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.chart-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.bar2-text {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
